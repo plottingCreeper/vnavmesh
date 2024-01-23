@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - build
+    - master
 
 env:
   PUBLIC_NAME: vnavmesh
