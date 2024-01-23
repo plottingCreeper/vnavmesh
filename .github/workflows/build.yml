@@ -11,7 +11,7 @@ on:
 env:
   PUBLIC_NAME: vnavmesh
   SOLUTION_NAME: vnavmesh
-  INTERNAL_NAME: vnavmesh
+  INTERNAL_NAME: ffxiv_navmesh
   RELEASE_DIR: vnavmesh\bin\Release\vnavmesh
   PERSONAL_PLUGIN_REPO: plottingCreeper/MyDalamudPlugins
   PR_PLUGIN_REPO: plottingCreeper/DalamudPlugins
